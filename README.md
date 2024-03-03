@@ -1,2 +1,2 @@
-# Calculatop_app
+# Calculator_app
 A calculator using HTML CSS and JS
